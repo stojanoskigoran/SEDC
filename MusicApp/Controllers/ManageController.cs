@@ -24,7 +24,6 @@ namespace MusicApp.Controllers
         {
             UserManager = userManager;
             SignInManager = signInManager;
-            //asdsada
         }
 
         public ApplicationSignInManager SignInManager
